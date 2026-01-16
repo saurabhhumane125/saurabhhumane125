@@ -38,16 +38,6 @@
 - Backend-oriented Python development  
 - Logic-first implementation over UI-heavy work  
 
-#### Tools & Utilities
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git" />
-</p>
-
-- Automation scripts
-- PDF processing & utilities
-- Version control & clean commits
-
-
 ---
 
 ### 📂 Projects & Work
