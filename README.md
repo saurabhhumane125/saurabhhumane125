@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-#### Machine Learning & Data
+### Machine Learning & Data
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
